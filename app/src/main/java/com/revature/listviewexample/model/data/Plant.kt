@@ -1,4 +1,4 @@
-package com.revature.listviewexample
+package com.revature.listviewexample.model.data
 
 data class Plant(
     val id:Int,
